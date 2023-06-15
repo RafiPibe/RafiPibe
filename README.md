@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/faraihan-rafi-adityawarman-5975a221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.instagram.com/rafi_pibe/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCIH99D0LHVladCJLy73VADg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/faraihanrafia" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riskiilyas03" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/faraihanrafia" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faraihanrafia" height="30" width="40" /></a>
 
 </p>
 
