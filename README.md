@@ -1,10 +1,12 @@
-[![MasterHead](https://media.giphy.com/media/DGgOqWLqd8o6QoeYWN/giphy.gif)](https://faraihanrafia.carrd.co)
+<p align="center">
+    <img width="1600" src="https://media.giphy.com/media/DGgOqWLqd8o6QoeYWN/giphy.gif" alt="Material Bread logo">
+</p>
+
 <h1 align = center>HI!👋</h1>
 <h1 align = center>I'm Pibe!</h1>
 <h3>My name is Faraihan Rafi Adityawarman, but you can call me Pibe. I'm a beginner in programming, and I want to practice more in the future :D</h3>
 
-<p>
-<div align = left></div>
+<p align="left">
 • 🏢 Currently studying in Institut Teknologi Sepuluh Nopember.<br>
 • 💻 Trying to learn more about programming!
 </p>
@@ -19,6 +21,8 @@
 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafiPibe&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="RafiPibe"/> 
-  <img width="400"src="https://github-readme-stats.vercel.app/api?username=RafiPibe&theme=tokyonight"/></p><p></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafiPibe&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="RafiPibe"/> 
+  <img width="400"src="https://github-readme-stats.vercel.app/api?username=RafiPibe&theme=tokyonight"/>
+</p>
+  <p></p>
