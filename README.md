@@ -9,6 +9,7 @@
 <p align="left">
 • 🏢 Currently studying in Institut Teknologi Sepuluh Nopember.<br>
 • 💻 Trying to learn more about programming!
+• ⌨️ Looking more towards front-end Web Programming
 </p>
 
 
